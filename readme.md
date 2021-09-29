@@ -41,5 +41,3 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Consetetur sadipscing elitr, sed diam nonumy.
 * At vero eos et accusam et justo duo dolores et ea rebum. 
 
-
-# Day 02
